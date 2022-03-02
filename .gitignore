@@ -1,5 +1,7 @@
 .vscode/
 
+sfml-app
+
 # Prerequisites
 *.d
 
